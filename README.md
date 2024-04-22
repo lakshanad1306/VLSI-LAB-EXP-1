@@ -171,30 +171,48 @@ endmodule
 # Full Adder
 ![Screenshot 2024-04-04 214228](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/5861d9cc-f439-4d6f-9637-e207327496d9)
 
+<img width="632" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/77971412-b208-47e6-a7a3-83ed932000c4">
 
 
 # Full Subractor
 ![Screenshot 2024-04-04 214258](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/9cba1528-e76b-488b-b225-a2d1d1719521)
 
+<img width="490" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/2fb76565-dba4-4d30-8307-ddbd07374350">
+
 
 # Half Adder
 ![Screenshot 2024-04-04 214327](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/ef26f9ed-47ad-465f-abba-e1c83fcd7ae4)
+
+![Screenshot 2024-04-22 135737](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/f80953ae-1db6-4e23-a04b-ace1dfedbebe)
 
 
 # Half Subractor
 ![Screenshot 2024-04-04 214348](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/bd30eda2-6717-4c26-9457-4ab8c7ae86c4)
 
+<img width="488" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/fcf37701-b2ac-4d85-905e-b593841d4afe">
+
 
 # Logic Gates
 ![Screenshot 2024-04-04 214410](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/2d24d1a6-a293-41ef-b8a9-e84471cd9c54)
+
+<img width="556" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/51100cd9-c792-4faa-9c9b-1b5de2260066">
 
 
 # Ripple Carry Adder 4bit
 ![Screenshot 2024-04-04 214432](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/a9e07040-1295-4b54-a60d-59b0c8ad9f5c)
 
+<img width="632" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/ea7e9859-5a42-45f4-aaec-bfd7efeece9c">
+
 
 # Ripple Carry Adder 8bit
 ![Screenshot 2024-04-04 214457](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/5c0ad9e4-b9ae-40e9-8036-98295a896dea)
+
+<img width="631" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/517604ec-80d3-406b-917b-37d8927487f1">
+
+# RESULT
+
+Thus the simulation and synthesis Logic Gates,Adders and Subtractor using VIVADO 2023.2 has been verified.
+
 
 
 

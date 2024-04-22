@@ -44,11 +44,9 @@ Half Subtractor:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
 
 
-
 Full Subtractor:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
-
 
 
 8 Bit Ripple Carry Adder
@@ -166,6 +164,7 @@ fulladder f7(a[6], b[6], w[6], s[6], w[7]);
 fulladder f8(a[7], b[7], w[7], s[7], cout);
 endmodule
 ```
+
 # OUTPUT:
 
 # Full Adder
@@ -208,6 +207,7 @@ endmodule
 ![Screenshot 2024-04-04 214457](https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/5c0ad9e4-b9ae-40e9-8036-98295a896dea)
 
 <img width="631" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-1/assets/161121355/517604ec-80d3-406b-917b-37d8927487f1">
+
 
 # RESULT
 
